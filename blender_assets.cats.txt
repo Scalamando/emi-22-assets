@@ -1,0 +1,10 @@
+# This is an Asset Catalog Definition file for Blender.
+#
+# Empty lines and lines starting with `#` will be ignored.
+# The first non-ignored line should be the version indicator.
+# Other lines are of the format "UUID:catalog/path/for/assets:simple catalog name"
+
+VERSION 1
+
+d54ab42a-b1d3-496f-b5f9-82a9cdfb9a28:Menschlein:Menschlein
+ad7a2893-c437-4a5a-a8e5-c2ef435d08e7:Menschlein/Wearables:Menschlein-Wearables
